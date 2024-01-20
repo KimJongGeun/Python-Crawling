@@ -1,0 +1,5 @@
+1. 파이썬 라이브러리 관리
+ - 설치된 라이브러리 추출
+  $ pip freeze > requirements.txt
+ - 라이브러리 설치
+  $ pip install -r requirements.txt
